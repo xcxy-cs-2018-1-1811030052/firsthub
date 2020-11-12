@@ -1,2 +1,2 @@
-# firsthub
+# git-study
 github测试
